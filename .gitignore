@@ -75,3 +75,4 @@ typings/
 
 /tests/.bin
 /tests/.latest.json
+.vscode/settings.json
